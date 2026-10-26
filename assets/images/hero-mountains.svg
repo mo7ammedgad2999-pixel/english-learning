@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520"><defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#101b48"/><stop offset=".55" stop-color="#654e91"/><stop offset="1" stop-color="#ffad82"/></linearGradient><linearGradient id="m" x2="0" y2="1"><stop stop-color="#394d83"/><stop offset="1" stop-color="#17264e"/></linearGradient></defs><rect width="1200" height="520" fill="url(#s)"/><circle cx="890" cy="165" r="65" fill="#ffe4ad"/><path d="M0 360 190 155 300 260 465 88 650 320 760 205 940 340 1050 230 1200 365V520H0Z" fill="#5a6596" opacity=".7"/><path d="M0 425 180 270 285 350 490 125 675 355 820 245 1010 390 1110 300 1200 380V520H0Z" fill="url(#m)"/><path d="m390 235 100-110 93 113-63-32-29 21-27-32-25 38-26-9Z" fill="#d8e9ff"/><path d="M0 460 160 360 275 418 430 300 560 430 730 335 870 420 1030 350 1200 440V520H0Z" fill="#102141"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-label="Illustrated mountain lake at sunrise">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#07152f"/><stop offset=".38" stop-color="#344b8b"/><stop offset=".7" stop-color="#ef8e9a"/><stop offset="1" stop-color="#ffca91"/></linearGradient>
+ <linearGradient id="lake" x2="0" y2="1"><stop stop-color="#ef9f9c"/><stop offset=".28" stop-color="#315e8e"/><stop offset="1" stop-color="#071b37"/></linearGradient>
+ <linearGradient id="mountain" x2="0" y2="1"><stop stop-color="#5379ad"/><stop offset="1" stop-color="#172d53"/></linearGradient>
+ <linearGradient id="front" x2="0" y2="1"><stop stop-color="#153a53"/><stop offset="1" stop-color="#06152c"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ffe9b4" stop-opacity=".9"/><stop offset="1" stop-color="#ffb4a0" stop-opacity="0"/></radialGradient>
+ <linearGradient id="sun-ref" x2="0" y2="1"><stop stop-color="#ffe8b0" stop-opacity=".65"/><stop offset="1" stop-color="#ffbcac" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1600" height="700" fill="url(#sky)"/>
+<ellipse cx="1035" cy="260" rx="360" ry="230" fill="url(#glow)"/>
+<g fill="#f7b8c1" opacity=".26"><path d="M0 170Q150 100 300 160T610 150T920 160T1230 135T1600 145V190H0Z"/><path d="M0 215Q180 165 360 210T720 190T1060 215T1400 185T1600 200V235H0Z"/></g>
+<circle cx="1035" cy="260" r="61" fill="#ffe8b1"/>
+<path d="M0 440 155 320 255 365 435 150 590 340 730 220 875 380 1045 175 1225 365 1370 255 1600 415V700H0Z" fill="#263e70"/>
+<path d="m330 278 105-128 98 120-58-26-32 23-34-28-29 39-23-7Z M934 279l111-104 110 142-72-35-31 23-35-28-26 29-29-16Z" fill="#e7edff" opacity=".92"/>
+<path d="M0 480 180 355 305 415 500 250 655 425 815 310 960 450 1130 300 1300 450 1460 355 1600 450V700H0Z" fill="url(#mountain)"/>
+<path d="m438 305 62-55 63 73-43-15-22 15-23-20-18 16Z M1084 354l46-54 58 65-37-14-20 11-17-15-14 13Z" fill="#cbdcf7" opacity=".72"/>
+<path d="M0 485Q260 450 470 490T900 482T1280 475T1600 480V700H0Z" fill="url(#lake)"/>
+<path d="M1010 320l50 0 18 210-75 0Z" fill="url(#sun-ref)" opacity=".8"/>
+<path d="M0 555Q250 520 480 557T900 548T1260 550T1600 545" fill="none" stroke="#f7b5ba" stroke-width="4" opacity=".34"/>
+<path d="M0 610Q240 580 500 614T1020 604T1600 600" fill="none" stroke="#7fb8d8" stroke-width="3" opacity=".24"/>
+<path d="M0 475 125 440 220 485 305 452 390 500 480 470 570 520 650 480 735 535 830 485 930 525 1040 470 1135 520 1220 465 1310 520 1405 470 1510 515 1600 475V700H0Z" fill="url(#front)"/>
+<g fill="#06172b">
+ <path d="M40 700 90 510 140 700Z M90 700 150 475 210 700Z M220 700 270 535 320 700Z M1350 700 1405 495 1460 700Z M1430 700 1490 455 1550 700Z M1510 700 1550 535 1600 700Z"/>
+</g>
+<g fill="#0c2a43" opacity=".95">
+ <path d="M65 700 108 560 151 700Z M185 700 235 550 285 700Z M1300 700 1350 560 1400 700Z M1460 700 1510 535 1560 700Z"/>
+</g>
+<g fill="#d7e6ff" opacity=".35"><circle cx="170" cy="95" r="2"/><circle cx="250" cy="135" r="2"/><circle cx="690" cy="90" r="2"/><circle cx="820" cy="135" r="2"/><circle cx="1350" cy="110" r="2"/><circle cx="1450" cy="175" r="2"/></g>
+</svg>
